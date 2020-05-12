@@ -1,2 +1,2 @@
-# scream-bot
-Discord Scream Bot
+# ac-turnip-bot
+Animal crossing turnip price tracker
